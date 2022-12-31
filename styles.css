@@ -143,6 +143,7 @@
 
 .social {
     position: absolute;
+    margin-left: 90px;
     bottom: 20px;
     z-index: 10;
     display: flex;
@@ -215,6 +216,9 @@
     }
     .showcase.active {
         right: 180px;
+    }
+    .social li a {
+        visibility: visible;
     }
     .menu {
         width: 180px;
