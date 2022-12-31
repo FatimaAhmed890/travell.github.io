@@ -208,6 +208,9 @@
     .showcase header {
         padding: 40px;
     }
+    .social li a {
+        visibility: visible;
+    }
     .text h2 {
         font-size:3em;
     }
